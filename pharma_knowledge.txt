@@ -1,3 +1,5 @@
+
+//File is not in use, can be customised for pharma content
 Drug ABC is an oral medication used for the treatment of hypertension.
 
 Prescribed dosage:
